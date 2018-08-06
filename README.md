@@ -3,7 +3,7 @@
 This is a React Project that randomly changes the background color of the webpage 
 and provides the corresponding RGB code.
 
-![alt text](color.png "React Color Changer")
+![alt text](screen.png "React Color Changer")
 
 It is meant to help designers pick the most suitable background color for their designs :)
 
